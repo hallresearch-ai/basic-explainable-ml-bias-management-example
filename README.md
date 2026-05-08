@@ -32,7 +32,8 @@ bias testing/remediation workflows. Useful background references include:
   threshold selection, fairness tables, plotting, and model comparison.
 - `credit_line_increase.csv`: Example credit line delinquency dataset. The
   target column is `DELINQ_NEXT`; demographic columns are used for analysis and
-  excluded from model features.
+  excluded from model features. (Modified version of Taiwanese credit data, from 
+  UCI/Kaggle.)
 - `requirements.txt`: Python dependencies for running the notebook.
 - `LICENSE`: Apache License 2.0.
 
