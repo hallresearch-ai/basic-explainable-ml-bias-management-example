@@ -1,0 +1,9 @@
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+tensorflow
+tensorflow_lattice
+tf_keras
